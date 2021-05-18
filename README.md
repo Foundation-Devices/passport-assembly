@@ -1,4 +1,4 @@
-# Passport Electronics
+# Passport Assembly
 
 This repository contains the full production assembly for Passport, an open source Bitcoin hardware wallet made by Foundation Devices.
 
