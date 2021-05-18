@@ -17,7 +17,7 @@ Passport consists of the following components:
 ### Folder Organization
 This repo contains the following folders:
 - Bill of Materials
-– Mechanical Design Files
+- Mechanical Design Files
 - passport-electronics – this is a submodule
 - passport-firmware – this is a submodule
 
