@@ -25,7 +25,8 @@ This repo contains the following folders:
 
 **Bill of Materials** contains all custom and stock physical components used to assemble Passport.
 
-**Mechanical Design Files** contains CAD files (STL, STEP, SOLIDWORKS) and PDF drawings
+**Mechanical Design Files** contains CAD files (STL, STEP, SOLIDWORKS) and PDF drawings. 
+Full STL and STEP assemblies exceed Github's size limit and can be found [here](https://drive.google.com/drive/u/0/folders/1Z9FJ9kxqDMWf-vwsLpfFheNOHl8vTlpA).
 
 **passport-electronics** is a submodule linking to the repo containing Passport's circuit designs.
 
