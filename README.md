@@ -21,13 +21,13 @@ This repo contains the following folders:
 - passport-electronics – this is a submodule
 - passport-firmware – this is a submodule
 
-**Bill of Materials** contains...
+**Bill of Materials** contains all custom and stock physical components used to assemble Passport.
 
-**Mechanical Design Files** contains...
+**Mechanical Design Files** contains CAD files (STL, STEP, SOLIDWORKS) and PDF drawings
 
-**passport-electronics** is a submodule...
+**passport-electronics** is a submodule linking to the repo containing Passport's circuit designs.
 
-**passport-firmware** is a submodule...
+**passport-firmware** is a submodule linking to the repo containing Passport's firmware.
 
 ### Documenting Changes
 This repository includes a CHANGES.txt file. We will document all design changes in this file. If you submit a pull request that makes changes to the circuit designs, please update CHANGES.txt with a brief description of your changes.
