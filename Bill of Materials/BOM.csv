@@ -1,0 +1,65 @@
+LVL,SKU,Description,Category ,REV,Custom?,Manufacturer,MFG PN,Qty
+1,FD-JL-PCBA-BB-N,North battery board assembled,PCBA,C3,Y,---,---,1
+1,FD-JL-PCBA-BB-S,South battery board assembled,PCBA,C3,Y,---,---,1
+1,FD-JL-PCBA-CB,Camera board assembled,PCBA,C2,Y,---,---,1
+1,FD-JL-PCBA-MB,Main board assembled,PCBA,D1,Y,---,---,1
+1,FD-JL-MB-SUB-ASSY,"Main board sub assembly with domes, display foam, and LCD",Sub-Assy,A,---,---,---,1
+2,FD-JL-PCBA-MB (1),Main board assembled,PCBA,D1,Y,---,---,1
+2,FD-JL-DOMES (1),Dome array assembly with adhesive to attach to mainboard PCBA,Electronic Assy. ,C,Y,---,---,1
+2,FD-JL-DISPLAY-FOAM (1),Adhesive backed foam part to create stiffness,Foam,C,Y,---,---,1
+2,FD-JL-LCD (1),Sharp LCD with tight roll and LED front light,Electronic Assy. ,A,N,Azumo/Sharp,12616-06_T3,1
+1,FD-JL-BB-N-SUB-ASSY,North battery board sub assembly with battery chassis and screw,Sub-Assy,A,---,---,---,1
+2,FD-JL-PCBA-BB-N (1) ,North battery board assembled,PCBA,C3,Y,---,---,1
+2,FD-JL-BC (1),White plastic battery chassis that holds the battery board in place,Plastic,D,Y,---,---,1
+2,FD-JL-SCREW (1) ,"18-8 Stainless Hex Drive Screw 0-80 Thread Size, 3/16"" Long, internal",Metal,A,N,McMaster Carr,92949A052,1
+1,FD-JL-BB-S-SUB-ASSY,South battery board sub assembly with battery chassis and screw,Sub-Assy,A,---,---,---,1
+2,FD-JL-PCBA-BB-S (1),South battery board assembled,PCBA,C3,Y,---,---,1
+2,FD-JL-BC (1),White plastic battery chassis that holds the battery board in place,Plastic,D,Y,---,---,1
+2,FD-JL-SCREW (1),"18-8 Stainless Hex Drive Screw 0-80 Thread Size, 3/16"" Long, internal",Metal,A,N,McMaster Carr,92949A052,1
+1,FD-JL-RCOVER-SUB-ASSY,Rear cover sub assembly with steel plate and foam ,Sub-Assy,A,---,---,---,1
+2,FD-JL-RCOVER (1),Soft-touch rear cover that goes over the rear housing/batteries,Plastic,B,Y,---,---,1
+2,FD-JL-STEEL-P (1),Internal magnetized steel plate for securing rear cover,Metal,C,Y,---,---,1
+2,FD-JL-RCOVER-FOAM (2),Foam that goes on the inside of the rear cover ,Foam,A,Y,---,---,2
+2,FD-JL-GLUE (4 DROPS),Loctite super glue gel,Glue,A,N,Loctite,Super Glue Ultra Gel Control ,4
+1,FD-JL-FRONT-SUB-ASSY,Front housing sub assembly - 1/2 final assembly ,Sub-Assy,A,---,---,---,1
+2,FD-JL-FRONT-HOUSING-SHIELD (1),Front plate housing,Plastic,G,Y,---,---,1
+2,FD-JL-LPIPE (1),Clear plastic part that is used to direct/display LED in the front,Plastic,A,Y,---,---,1
+2,FD-JL-KEYPAD (1),Injection molded keypad with graphics and coating,Plastic,B,Y,---,---,1
+2,FD-JL-MB-SUB-ASSY (1),"Main board sub assembly with domes, display foam, and LCD",Sub-Assy,A,---,---,---,1
+2,FD-JL-SPACER (1),Plastic board stiffener that goes over components and keeps everything in place,Plastic,A,Y,---,---,1
+2,FD-JL-BRACKET (2),Internal stainless steel metal bracket for assembly fastening ,Metal,C,Y,---,---,2
+2,FD-JL-SCREW (4),"18-8 Stainless Hex Drive Screw 0-80 Thread Size, 3/16"" Long, internal",Metal,A,N,McMaster Carr,92949A052,4
+2,FD-JL-PCBA-CB (1),Camera board assembled,PCBA,C2,Y,---,---,1
+1,FD-JL-RHOUSING-SUB-ASSY,Rear housing sub assembly - 2/2 final assembly,Sub-Assy,A,---,---,---,1
+2,FD-JL-RHOUSING (1) ,Casted rear housing battery holder with copper plating + secondary routing,Metal,C,Y,---,---,1
+2,FD-JL-LENS-C (1),Clear high gloss PC plastic that covers the camera lens to protect it,Plastic,C,Y,---,---,1
+2,FD-JL-MAGNET (3),"N42NP DISC .187""D X .187""T MAGNETIZED THROUGH THICKNESS",Metal,A,N,Bunting,N42P187187,3
+2,FD-JL-RETAINER (1),Internal stainless steel metal retainer for assembly fastening ,Metal,D,Y,---,---,1
+2,FD-JL-BB-N-SUB-ASSY (1),North battery board sub assembly with battery chassis and screw,Sub-Assy,A,---,---,---,1
+2,FD-JL-BB-S-SUB-ASSY (1),South battery board sub assembly with battery chassis and screw,Sub-Assy,A,---,---,---,1
+1,FD-JL-DEVICE-SUB-ASSY,"Completed device ready for final assembly, test, QC, shrink + packout",Sub-Assy,A,---,---,---,1
+2,FD-JL-FRONT-SUB-ASSY (1),Front housing sub assembly - 1/2 final assembly ,Sub-Assy,A,---,---,---,1
+2,FD-JL-RHOUSING-SUB-ASSY (1),Rear housing sub assembly - 2/2 final assembly,Sub-Assy,A,---,---,---,1
+2,FD-JL-SCREW (4),"18-8 Stainless Hex Drive Screw 0-80 Thread Size, 3/16"" Long, internal",Metal,A,N,McMaster Carr,92949A052,4
+2,"FD-JL-GLUE (4 DROPS TOTAL, 1 PER SCREW)",Loctite super glue gel,Glue,A,N,Loctite,Super Glue Ultra Gel Control ,1
+2,FD-JL-RCOVER-SUB-ASSY,Rear cover sub assembly with steel plate and foam ,Sub-Assy,A,---,---,---,1
+1,FD-JL-GIFT-SUB-ASSY,Gift bag sub assembly ,Sub-Assy,A,---,---,---,1
+2,FD-JL-GIFT (1),Free gift - Satoshi Nakamoto Book,Packaging,A,N,Coin Center,---,1
+2,FD-JL-ART-CARD (1),Full color art card of Passport and previous design iterations,Packaging,A,Y,---,---,1
+2,FD-JL-STICKER-LOGO (2),"Custom 2"" x 1.57"" Die cut stickers",Packaging,A,Y,,---,2
+2,FD-JL-POLY-BAG (1),"Resealable bags that will hold the gift booklet, the two foundation stickers, and the art card",Packaging,A,N,ULINE,S-7078,1
+1,FD-JL-PACKOUT-SUB-ASSY,Branded box packout sub assembly with device and accessories,Sub-Assy,A,---,---,---,1
+2,FD-JL-PKG-BRANDED (1) ,Branded setup box with top/bottom thick pt cardboard ,Packaging,A,Y,---,---,1
+2,FD-JL-PKG-FOAM-INSERT-TOP (1),Foam insert that goes into the branded packaging box (top piece of bottom box that holds device),Packaging,A,Y,---,---,1
+2,FD-JL-PKG-FOAM-INSERT-BOTTOM (1),Foam insert that goes into the branded packaging box (bottom piece of bottom box that holds accessories),Packaging,A,Y,---,---,1
+2,FD-JL-MICROSD-&-CASE (2),Industrial grade microSD card that can be used for backup & firmware transfers WITH CASE,Accessories,A,N,Western Digital ,SDSDQAF3-008G-XI-J,2
+2,FD-JL-AAA (2),AAA batteries that will be included in the packaging for the customer to use,Accessories,B,N,Energizer ,L92 AAA,2
+2,FD-JL-DEVICE-SUB-ASSY(1),"Completed device ready for final assembly, test, QC, shrink + packout",Final Device (Sub Assy),A,---,---,---,1
+2,FD-JL-BOX-LABEL (1),"Custom 2.25"" x 1"" Rounded corner roll labels",Packaging,A,Y,,---,1
+1,FD-JL-PP,Final finished goods ready for shipping label and shipping,Finished Goods,A,---,---,---,1
+2,FD-JL-PACKOUT-SUB-ASSY (1),Branded box packout sub assembly with device and accessories,Packaging (Sub Assy),A,---,---,---,1
+2,FD-JL-GIFT-SUB-ASSY (1),Gift bag sub assembly ,Accessories (Sub Assy),A,---,---,---,1
+2,FD-JL-VOID-TAPE,"Destructible labels - ""Void if broken"", 3/4 x2"" 100/roll, used to seal branded packaging box",Packaging,A,N,ULINE,S-18972,1
+2,FD-JL-LITHIUM-LABEL (1),"Air labels, lithium battery handling, UN 3091, 4 5/8x 5"" 500/roll, placed on bottom of outer packaging box",Packaging,A,N,ULINE,S-23265,1
+2,FD-JL-TAMP-TAPE (1),"Security strips on a roll - 2x5 3/4, blue, 330 strips/roll",Packaging,A,N,ULINE,S-16981BLU,1
+2,FD-JL-PKG-OVERPACK,Overpack shipping box,Packaging,A,N,ULINE,S-430,1
