@@ -1,0 +1,12 @@
+Use this file to document changes made to the designs. 
+
+As per section 3.3.b of LICENSE.txt, information should be added but NEVER REMOVED from this file. 
+
+When adding information, please provide a brief entry with a date and the nature of the modification for each design change.
+
+
+CHANGES:
+
+May 17, 2021
+ - Initial release
+ - Archived original Camera Shield design
