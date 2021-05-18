@@ -1,0 +1,6 @@
+[submodule "passport-firmware"]
+	path = passport-firmware
+	url = https://github.com/Foundation-Devices/passport-firmware
+[submodule "passport-electronics"]
+	path = passport-electronics
+	url = https://github.com/Foundation-Devices/passport-electronics
